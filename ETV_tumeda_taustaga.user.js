@@ -1,6 +1,6 @@
 ﻿// ==UserScript==
 // @name          	ETV otse
-// @namespace     Random
+// @namespace     ETV_live_dark
 // @description	ETV tumeda taustaga
 // @include       http://live.err.ee/*
 // @include       http://otse.err.ee/*
