@@ -2,8 +2,8 @@
 // @name          	ETV otse
 // @namespace     ETV_live_dark
 // @description	ETV tumeda taustaga
-// @updateURL https://github.com/martrootamm/ETV_live/raw/master/ETV_tumeda_taustaga.user.js
-// @version 0.8.6
+// @updateURL https://github.com/juneyourtech/ETV_live/raw/master/ETV_tumeda_taustaga.user.js
+// @version 0.8.7
 // @include       http://live.err.ee/*
 // @include       http://otse.err.ee/*
 // @include       http://ee30481.err.ee/*
