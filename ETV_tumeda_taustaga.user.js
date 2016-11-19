@@ -3,16 +3,15 @@
 // @namespace     ETV_live_dark
 // @description	ETV tumeda taustaga
 // @updateURL https://github.com/juneyourtech/ETV_live/raw/master/ETV_tumeda_taustaga.user.js
-// @version 0.8.7
+// @version 0.8.8
 // @include       http://live.err.ee/*
-// @include       http://otse.err.ee/*
 // @include       http://ee30481.err.ee/*
-// @include       http://etv.err.ee/*
 // @grant         GM_addStyle
 // ==/UserScript==
 // Notes:
 //   * is a wildcard character
 //   .tld is magic that matches all top-level domains (e.g. .com, .co.uk, .us, etc.)
+// Removed http://etv.err.ee/* and http://otse.err.ee/* from the includes list.
 
 //document.styleSheets[0].insertRule('BODY {background-color:black !important;}', 0);
 //This userscript fixes many Orkut layout issues in Gecko-based browsers. Fixes notably apply to the classic Orkut layout.
